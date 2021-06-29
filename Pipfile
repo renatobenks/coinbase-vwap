@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "~=6.2.4"
+virtualenv = "~=16.7"
+pylint = "~=2.4"
+pytest-mock = "~=3.6.1"
+watchgod = "~=0.7"
+coverage = "~=5.5"
+
+[packages]
+cbpro = "~=1.1.4"
+
+[requires]
+python_version = "3.8"
+
+[pipenv]
+allow_prereleases = true

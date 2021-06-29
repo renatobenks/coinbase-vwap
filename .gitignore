@@ -1,0 +1,12 @@
+# Python
+.pytest_cache/
+
+# Code Coverage
+coverage/
+.coverage
+
+# IDE (JetBrains)
+.idea/
+
+# Dependencies
+venv/
