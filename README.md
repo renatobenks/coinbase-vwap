@@ -3,8 +3,6 @@
 This project has been built to the purpose of calculating,
 in real-time, the VWAP to the following tradings-pairs.
 
-You check it out in better details [here](./assignment.pdf).
-
 ## Getting started
 
 Follow the bellow instructions to run up the project.
